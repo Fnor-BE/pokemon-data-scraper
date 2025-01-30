@@ -12,8 +12,8 @@ If you want to run/modify the script yourself, you'll need [Python](https://www.
 
 However, if you simply wish to use the data for your own project, you can simply download the csv files or import them using the following links:
 
-- [Pokemon data (.csv)](https://raw.githubusercontent.com/Fnor-BE/pokemon-data-scraper/main/pokemons.csv)
-- [Type chart (.csv)](https://raw.githubusercontent.com/Fnor-BE/pokemon-data-scraper/main/pokemon-type-chart.csv)
+- [Pokemon data (.csv)](https://raw.githubusercontent.com/Fnor-BE/pokemon-data-scraper/main/export/pokemons.csv)
+- [Type chart (.csv)](https://raw.githubusercontent.com/Fnor-BE/pokemon-data-scraper/main/export/pokemon-type-chart.csv)
 
 ## Pages Used
 
